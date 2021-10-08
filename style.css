@@ -22,7 +22,7 @@ body{
   
   .topnav a:hover {
 	background-color: #bbb;
-	color: honeydew;
+	color: #f0fff0;
   }
 
   .topnav-right {
@@ -43,13 +43,13 @@ body{
 	float: right;
 	width: 50%;
 	padding: 160px;
-	color: honeydew;
+	color: #f0fff0;
 	font-size: 25px;
 	font-family: cursive;
   }
   #menu_list{
 	background-color:#f5c71a;
-	color:honeydew; 
+	color:#f0fff0; 
 	width: 200px;
 	border: none;
   }
@@ -69,7 +69,7 @@ body{
 	float: left;
 	width: 80%;
 	padding: 5px;
-	color: honeydew;
+	color: #f0fff0;
 	font-size: 25px;
 	font-family: cursive;
   }
@@ -79,7 +79,7 @@ body{
 	height:100px;
 	border: none;
 	background-color:#e2062c;
-	color: honeydew;
+	color: #f0fff0;
 	font-size: 15px;
 	font-family: cursive;
   }
@@ -90,7 +90,7 @@ body{
 	line-height: 20px;
 	width: 80%;
 	height: 50px;
-	color: honeydew;
+	color: #f0fff0;
     background: none;
     border: none;
     border-bottom: 1px solid rgb(223, 205, 205);
@@ -101,7 +101,7 @@ body{
     transition: text-indent 0.4s 0.4s ease; 
     text-indent: -100%;
 	opacity: 1;
-	color: honeydew;
+	color: #f0fff0;
  }
 
 #im1{
@@ -110,5 +110,5 @@ body{
 }
 
 .card{
-    color: honeydew;
+    color: #f0fff0;
 }
